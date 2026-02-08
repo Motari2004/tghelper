@@ -1,0 +1,13 @@
+{
+  "name": "scorpio-assistant",
+  "version": "1.0.0",
+  "description": "Scorpio Professional Interface",
+  "main": "helper.js",
+  "scripts": {
+    "start": "node helper.js"
+  },
+  "dependencies": {
+    "telegram": "^2.26.21",
+    "express": "^4.18.2"
+  }
+}
